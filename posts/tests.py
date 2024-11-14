@@ -6,6 +6,7 @@ from .models import Post
 
 # Create your tests here.
 
+
 class PostTests(TestCase):
     @classmethod
     def setUpTestData(cls):
